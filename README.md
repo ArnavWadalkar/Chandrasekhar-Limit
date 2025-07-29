@@ -1,4 +1,4 @@
-# The Chandrasekhar Limit: A Student Exploration into White Dwarf Collapse
+# The Chandrasekhar Limit: A Exploration into White Dwarf Collapse
 
 This article reviews the physics of white dwarf stability, exploring how Fermi degeneracy, gravitational equilibrium, and relativistic effects define the Chandrasekhar Limit. It is aimed at undergraduate students of theoretical and astrophysical physics.
 
