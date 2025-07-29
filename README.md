@@ -33,7 +33,7 @@ The article is divided into the following sections:
 
 ##  Files
 
-- [`Chandrasekhar_Limit_compressed.pdf`](Chandrasekhar_Limit_compressed.pdf): The full article in PDF format.
+- [`Chandrasekhar-Limit_compressed.pdf`](Chandrasekhar-Limit_compressed.pdf): The full article in PDF format.
 - ['P_index=3.ipynb'](P_index=3.ipynb): Simulation notebook for a polytropic index \( n = 3 \) (relates to relativistic degenerate electrons in white dwarfs).
 - [`simulation.ipynb'](simulation.ipynb): Simulates white dwarf core collapse via electron capture, modeling density evolution and instability onset.
 
